@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+mysql-connector-python
+streamlit
+scikit-learn
+scipy
+plotly
+statsmodels
+prophet
+joblib
