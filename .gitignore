@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Generated Outputs
+*_results.csv
+*_summary.csv
+*_scores.csv
+*_forecast.csv
+
+# Generated Images
+forecast_*.png
+
+# Temporary Files
+tmp/
+temp/
+
+# Database Dumps
+*.dump
+
+# Local Config Overrides
+config_local.py
